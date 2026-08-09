@@ -123,4 +123,4 @@ This project is intended **strictly for educational and research purposes**. Usi
 
 ## 📄 License
 
-Released under the [MIT License](./LICENSE) — © 2021 M s v
+Released under the [MIT License](./LICENSE)
